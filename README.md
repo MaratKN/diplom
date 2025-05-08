@@ -157,5 +157,12 @@
 ![alt text](https://github.com/MaratKN/diplom/blob/main/5.png)
 ![alt text](https://github.com/MaratKN/diplom/blob/main/6.png)
 
+http://84.201.180.254:8080/
+
 4. Проверяем мониторинг
 ![alt text](https://github.com/MaratKN/diplom/blob/main/7.png)
+
+Графана: http://84.201.180.254/
+Логин: admin
+Пароль: prom-operator
+
