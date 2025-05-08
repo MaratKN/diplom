@@ -147,22 +147,30 @@
 1. Запускаем инфру
 
 ![alt text](https://github.com/MaratKN/diplom/blob/main/1.png)
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/2.png)
 
 2. Запускаем приложения
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/3.png)
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/4.png)
 
 3. Проверяем nginx
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/5.png)
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/6.png)
 
-http://84.201.180.254:8080/
+Котейка: http://84.201.180.254:8080/
 
 4. Проверяем мониторинг
+
 ![alt text](https://github.com/MaratKN/diplom/blob/main/7.png)
 
 Графана: http://84.201.180.254/
+
 Логин: admin
+
 Пароль: prom-operator
 
