@@ -162,17 +162,16 @@
 
 ![alt text](https://github.com/MaratKN/diplom/blob/main/6.png)
 
-Котейка: http://84.201.180.254:8080/
+Котейка: http://158.160.180.155:8080/
 
 4. Проверяем мониторинг
 
 ![alt text](https://github.com/MaratKN/diplom/blob/main/7.png)
 
-Графана: http://84.201.180.254/
+Графана: http://158.160.180.155/
 
-Логин: admin
+Логин: test
 
-Пароль: prom-operator
+Пароль: test
 
-UPDATE: потушил, так как улетают ресурсы, могу поднять по запросу
 
