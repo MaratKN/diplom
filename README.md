@@ -162,16 +162,14 @@
 
 ![alt text](https://github.com/MaratKN/diplom/blob/main/6.png)
 
-Котейка: http://158.160.180.155:8080/
+Котейка (ПЕРЕПОДНЯЛ, ссылка другая): http://158.160.180.155:8080/
 
 4. Проверяем мониторинг
 
 ![alt text](https://github.com/MaratKN/diplom/blob/main/7.png)
 
-Графана: http://158.160.180.155/
+Графана (ПЕРЕПОДНЯЛ, ссылка другая) : http://158.160.180.155/
 
 Логин: test
 
 Пароль: test
-
-
